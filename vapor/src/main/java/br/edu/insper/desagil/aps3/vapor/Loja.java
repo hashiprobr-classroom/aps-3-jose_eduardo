@@ -1,4 +1,5 @@
-package br.edu.insper.desagil.aps3.vapor;
+package vapor.src.main.java.br.edu.insper.desagil.aps3.vapor;
+import br.edu.insper.desagil.aps3.vapor.Usuario;
 import java.util.List;
 
 public class Loja {

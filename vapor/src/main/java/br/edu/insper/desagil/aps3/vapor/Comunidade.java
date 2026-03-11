@@ -1,6 +1,7 @@
-package br.edu.insper.desagil.aps3.vapor;
+package vapor.src.main.java.br.edu.insper.desagil.aps3.vapor;
 import java.util.ArrayList;
 import java.util.List;
+import br.edu.insper.desagil.aps3.vapor.Usuario;
 
 public class Comunidade {
 
